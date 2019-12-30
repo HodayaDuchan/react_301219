@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/uploudgithub/static/css/main.d1b05096.chunk.css",
+    "main.js": "/uploudgithub/static/js/main.58f3c487.chunk.js",
+    "main.js.map": "/uploudgithub/static/js/main.58f3c487.chunk.js.map",
+    "runtime-main.js": "/uploudgithub/static/js/runtime-main.0549e25d.js",
+    "runtime-main.js.map": "/uploudgithub/static/js/runtime-main.0549e25d.js.map",
+    "static/js/2.aebde0df.chunk.js": "/uploudgithub/static/js/2.aebde0df.chunk.js",
+    "static/js/2.aebde0df.chunk.js.map": "/uploudgithub/static/js/2.aebde0df.chunk.js.map",
+    "index.html": "/uploudgithub/index.html",
+    "precache-manifest.f0eff221368c0313d90dc7d8f2e7ea68.js": "/uploudgithub/precache-manifest.f0eff221368c0313d90dc7d8f2e7ea68.js",
+    "service-worker.js": "/uploudgithub/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/uploudgithub/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.aebde0df.chunk.js.LICENSE": "/uploudgithub/static/js/2.aebde0df.chunk.js.LICENSE",
+    "static/media/logo.svg": "/uploudgithub/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0549e25d.js",
+    "static/js/2.aebde0df.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.58f3c487.chunk.js"
+  ]
+}
